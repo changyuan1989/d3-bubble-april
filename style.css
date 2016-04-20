@@ -1,0 +1,37 @@
+.title {
+  color:red;
+  font-size:50px;
+  text-align:center;
+
+}
+
+.description{
+  color:darkgrey;
+  font-size:23px;
+  border-left: solid black 1px;
+  padding:10px;
+  mid-width: 400px;
+  margin:20px;
+  width:50%;
+  background-color:indigo;
+}
+
+.image{
+  width:350px;
+  position:relative;
+  left: 30px;
+}
+  .chart{
+    width:300px;
+    height:300px;
+
+  }
+
+  .circl{
+    stroke: green;
+    fill: #ccff99;
+    stroke-width:10;
+
+  }
+
+  
